@@ -1,0 +1,8 @@
+C:\Users\Korisnik\Desktop\DotNETgit\SimpleCalculator\Calculation\Calculation\TestCalculationLib\bin\Debug\TestCalculationLib.exe.config
+C:\Users\Korisnik\Desktop\DotNETgit\SimpleCalculator\Calculation\Calculation\TestCalculationLib\bin\Debug\TestCalculationLib.exe
+C:\Users\Korisnik\Desktop\DotNETgit\SimpleCalculator\Calculation\Calculation\TestCalculationLib\bin\Debug\TestCalculationLib.pdb
+C:\Users\Korisnik\Desktop\DotNETgit\SimpleCalculator\Calculation\Calculation\TestCalculationLib\bin\Debug\Calculation.dll
+C:\Users\Korisnik\Desktop\DotNETgit\SimpleCalculator\Calculation\Calculation\TestCalculationLib\bin\Debug\Calculation.pdb
+C:\Users\Korisnik\Desktop\DotNETgit\SimpleCalculator\Calculation\Calculation\TestCalculationLib\obj\Debug\TestCalculationLib.csprojResolveAssemblyReference.cache
+C:\Users\Korisnik\Desktop\DotNETgit\SimpleCalculator\Calculation\Calculation\TestCalculationLib\obj\Debug\TestCalculationLib.exe
+C:\Users\Korisnik\Desktop\DotNETgit\SimpleCalculator\Calculation\Calculation\TestCalculationLib\obj\Debug\TestCalculationLib.pdb

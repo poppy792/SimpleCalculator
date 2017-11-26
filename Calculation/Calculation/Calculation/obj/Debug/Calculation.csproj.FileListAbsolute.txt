@@ -1,0 +1,4 @@
+C:\Users\Korisnik\Desktop\DotNETgit\SimpleCalculator\Calculation\Calculation\Calculation\bin\Debug\Calculation.dll
+C:\Users\Korisnik\Desktop\DotNETgit\SimpleCalculator\Calculation\Calculation\Calculation\bin\Debug\Calculation.pdb
+C:\Users\Korisnik\Desktop\DotNETgit\SimpleCalculator\Calculation\Calculation\Calculation\obj\Debug\Calculation.dll
+C:\Users\Korisnik\Desktop\DotNETgit\SimpleCalculator\Calculation\Calculation\Calculation\obj\Debug\Calculation.pdb
