@@ -1,0 +1,6 @@
+C:\Users\Korisnik\Desktop\DotNETgit\SimpleCalculator\SmpleCalculator\ConsoleAppCalculator\bin\Debug\ConsoleAppCalculator.exe.config
+C:\Users\Korisnik\Desktop\DotNETgit\SimpleCalculator\SmpleCalculator\ConsoleAppCalculator\bin\Debug\ConsoleAppCalculator.exe
+C:\Users\Korisnik\Desktop\DotNETgit\SimpleCalculator\SmpleCalculator\ConsoleAppCalculator\bin\Debug\ConsoleAppCalculator.pdb
+C:\Users\Korisnik\Desktop\DotNETgit\SimpleCalculator\SmpleCalculator\ConsoleAppCalculator\obj\Debug\ConsoleAppCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Korisnik\Desktop\DotNETgit\SimpleCalculator\SmpleCalculator\ConsoleAppCalculator\obj\Debug\ConsoleAppCalculator.exe
+C:\Users\Korisnik\Desktop\DotNETgit\SimpleCalculator\SmpleCalculator\ConsoleAppCalculator\obj\Debug\ConsoleAppCalculator.pdb
